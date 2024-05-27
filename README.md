@@ -8,4 +8,5 @@ Kryžiukai nuliukai (angl. Tic Tac Toe). Programėlė mobiliame įrenginyje, gal
 ![Ekrano kopija 2024-05-27 090618](https://github.com/Mantelisx/TicTacToe-mobili-program-l-/assets/92160605/682a6f3f-1350-454d-b2bb-994bdf0650f5)
 ![Ekrano kopija 2024-05-27 090630](https://github.com/Mantelisx/TicTacToe-mobili-program-l-/assets/92160605/5387337b-44cd-4272-af58-6818ac88e134)
 ![Ekrano kopija 2024-05-27 090759](https://github.com/Mantelisx/TicTacToe-mobili-program-l-/assets/92160605/5ebd91ca-8b90-46f6-98a7-94080977565f)
+![Ekrano kopija 2024-05-27 091356](https://github.com/Mantelisx/TicTacToe-mobili-program-l-/assets/92160605/f7ffc010-1857-469e-b436-36ede04521da)
 
